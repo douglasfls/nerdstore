@@ -1,0 +1,6 @@
+@Nerdstore.Authentication.WebApp_HostAddress = http://localhost:5034
+
+GET {{Nerdstore.Authentication.WebApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
