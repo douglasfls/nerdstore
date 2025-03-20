@@ -1,0 +1,44 @@
+@page "/cart/"
+@using Nerdstore.WebApp.Services
+@model Nerdstore.WebApp.Pages.CartPage
+@inject CartService cartService;
+@{
+    ViewBag.DisplayBanner = false;
+}
+
+<div class="container px-4 px-lg-5 my-5">
+    <table class="table table-responsive-lg">
+        <thead>
+        <th>Product</th>
+        <th>Quantity</th>
+        <th>Price</th>
+        </thead>
+        <tbody>
+        @foreach (var product in cartService.Products)
+        {
+            <tr>
+                <td><a asp-page="ProductPage" asp-route-id="@product.Id">@product.Product.Name</a>
+                </td>
+                <td>
+                    <form method="POST">
+                        <input type="hidden" asp-for="ProductId" value="@product.Id" />
+                        <input asp-for="Quantity" value="@product.Quantity"
+                               class="form-control text-center me-3"
+                               style="max-width: 4rem"
+                               onchange="this.form.submit()"/>
+                    </form>
+                </td>
+                <td>$@product.Total
+                </td>
+            </tr>
+        }
+        <tfoot>
+        <tr>
+            <td>Total</td>
+            <td>@cartService.Quantity</td>
+            <td>$@cartService.Total</td>
+        </tr>
+        </tfoot>
+        </tbody>
+    </table>
+</div>

@@ -498,6 +498,6 @@ $RECYCLE.BIN/
 /dataSources.local.xml
 
 # SQLite
-*.db
-*.db-shm
-*.db-wal
+some.db
+**/*.db-shm
+**/*.db-wal

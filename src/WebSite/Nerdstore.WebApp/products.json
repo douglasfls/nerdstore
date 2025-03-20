@@ -1,0 +1,194 @@
+[
+    {
+      "category": "Tech Gadgets",
+      "name": "USB-C Charging Case",
+      "price": 29.99,
+      "description": "Fast-charging portable case for your devices featuring an USB-C port and Qi wireless charging support."
+    },
+    {
+      "category": "Tech Gadgets",
+      "name": "Wireless Charger",
+      "price": 19.99,
+      "description": "Compact and portable charger designed to wirelessly charge most mobile devices."
+    },
+    {
+      "category": "Apparel",
+      "name": "Hoodie: Nerdy Vibes - Seasonal Edition",
+      "price": 34.99,
+      "description": "Crew-neck hoodie with festive prints and cozy feel for the season."
+    },
+    {
+      "category": "Toys and Collectibles",
+      "name": "Board Game: Cluedo - Miniature Edition",
+      "price": 24.99,
+      "description": "Perfect for collectible gamers, this mini version of the classic deduction board game comes with character figurines."
+    },
+    {
+      "category": "Toys and Collectibles",
+      "name": "Collectible Figurine: Star Wars - Yoda Mini Figure",
+      "price": 14.99,
+      "description": "Small-scale collectible figure of Yoda from Star Wars, perfect forDisplay in your Star Wars collection."
+    },
+    {
+      "category": "Gaming and Electronics",
+      "name": "Gaming Mouse: dps5000 Pro V2",
+      "price": 39.99,
+      "description": "Precision gaming mouse with customizable DPI settings up to 3000 DPI for competitive gameplay."
+    },
+    {
+      "category": "Gaming and Electronics",
+      "name": "Bluetooth Speaker Set: soundbar speaker system with wire-free connection.",
+      "price": 49.99,
+      "description": "Durable speaker set designed for outdoor events or home entertainment, offering high-quality audio."
+    },
+    {
+      "category": "Home Decor",
+      "name": "Wall Art: Star Wars - Rebel Outfit 10x13-Inch Print",
+      "price": 24.99,
+      "description": "Limited edition print featuring the Rebel Outfit from Star Wars, designed to add character to any room."
+    },
+    {
+      "category": "Home Decor",
+      "name": "Table Lamp: LED Base with Diffused Shade - Multicolored Design",
+      "price": 34.99,
+      "description": "Modern table lamp with a sleek design and diffused shade for soft lighting in your living space."
+    },
+    {
+      "category": "Books & Comics",
+      "name": "Magazine Subscription Box: Handmade Art Collection",
+      "price": 29.99,
+      "description": "Curated monthly subscription box featuring handcrafted artwork by independent artists and设计师."
+    },
+    {
+      "category": "Books & Comics",
+      "name": "Activity Book: Etch-A-Sketch Kids' Art Set",
+      "price": 19.99,
+      "description": "Interactive art set perfect for kids to create fun drawings while learning about design and creativity."
+    },
+    {
+      "category": "Tech Gadgets",
+      "name": "Power Bank: 5000mAh with USB-C Port and Qi wireless charging.",
+      "price": 39.99,
+      "description": "Fast-charging portable battery pack with USB-C port, Qi wireless charging support, and multiple USB ports."
+    },
+    {
+      "category": "Apparel",
+      "name": "T-shirt: Star Wars - Chewbacca Collection - Screen Saver Design",
+      "price": 19.99,
+      "description": "Lightweight T-shirt featuring Chewbacca from Star Wars with a fun, screen-saver-inspired design."
+    },
+    {
+      "category": "Books & Comics",
+      "name": "Magazine Subscription Box: Collectible Edition - rare issues of popular magazines.",
+      "price": 24.99,
+      "description": "Curated monthly subscription box featuring rare and hard-to-find issues of popular magazine subscriptions."
+    },
+    {
+      "category": "Toys and Collectibles",
+      "name": "Board Game: Terraforming Planet - Micro Edition",
+      "price": 19.99,
+      "description": "Miniature strategy board game for players to transform a solar system into their own utopia of life."
+    },
+    {
+      "category": "Gaming and Electronics",
+      "name": "Controller: Xbox One DualShock 4 - Black variant with Adaptive Controller.",
+      "price": 59.99,
+      "description": "High-performance controller for Xbox One, featuring an adaptive design system with enhanced motion controls."
+    },
+    {
+      "category": "Home Decor",
+      "name": "Table Lamp: LED Base with Diffused Shade - Black and White Gradient Design",
+      "price": 34.99,
+      "description": "Modern table lamp with a sleek black and white gradient design and diffused shade for soft lighting."
+    },
+    {
+      "category": "Tech Gadgets",
+      "name": "Wireless Charger:Qi standard - MultiDevice wireless charger.",
+      "price": 19.99,
+      "description": "Compact and portable Qi-style wireless charger designed to wirelessly charge multiple devices simultaneously."
+    },
+    {
+      "category": "Apparel",
+      "name": "T-shirt: Pokemon - Pikachu Collection - Playful Design",
+      "price": 24.99,
+      "description": "Lightweight T-shirt featuring Pikachu from Pokémon with a playful and energetic design style."
+    },
+    {
+      "category": "Books & Comics",
+      "name": "Activity Book: Jigsaw Puzzles for Adults - Relaxation Time Zone",
+      "price": 14.99,
+      "description": "Curated collection of high-quality jigsaw puzzles designed to help you relax and unwind."
+    },
+    {
+      "category": "Tech Gadgets",
+      "name": "Bluetooth Speaker Set: soundbar speaker system with wire-free connection.",
+      "price": 29.99,
+      "description": "Durable speaker set designed for outdoor events or home entertainment, offering high-quality audio."
+    },
+    {
+      "category": "Home Decor",
+      "name": "Table Lamp: LED Base with Diffused Shade - Red and White Gradient Design",
+      "price": 34.99,
+      "description": "Modern table lamp with a sleek red and white gradient design and diffused shade for soft lighting in your living space."
+    },
+    {
+      "category": "Books & Comics",
+      "name": "Magazine Subscription Box: Art Attack - Handmade Collection",
+      "price": 24.99,
+      "description": "Curated monthly subscription box featuring handcrafted artwork by independent artists and designers across various media."
+    },
+    {
+      "category": "Apparel",
+      "name": "T-shirt: Naruto Shippuden - Sakura Heart Collection - Team Design",
+      "price": 29.99,
+      "description": "Lightweight T-shirt featuring Sakura Heart from Naruto with a team-inspired design for ultimate fandom style."
+    },
+    {
+      "category": "Books & Comics",
+      "name": "Activity Book: Crossword Puzzles - Brain Training Set",
+      "price": 19.99,
+      "description": "Curated collection of crossword puzzles designed to challenge your brain and improve cognitive function."
+    },
+    {
+      "category": "Tech Gadgets",
+      "name": "Power Bank: 5000mAh with USB-C Port and Qi wireless charging.",
+      "price": 39.99,
+      "description": "Fast-charging portable battery pack with USB-C port, Qi wireless charging support, and multiple USB ports."
+    },
+    {
+      "category": "Apparel",
+      "name": "T-shirt: Star Wars - Darth Vader Collection - Sith Lord Design",
+      "price": 19.99,
+      "description": "Lightweight T-shirt featuring Darth Vader from Star Wars with a bold and dark Darth Vader design for ultimate Sith lord style."
+    },
+    {
+      "category": "Books & Comics",
+      "name": "Magazine Subscription Box: Collectible Edition - rare issues of popular magazines.",
+      "price": 24.99,
+      "description": "Curated monthly subscription box featuring rare and hard-to-find issues of popular magazine subscriptions across various genres."
+    },
+    {
+      "category": "Gaming and Electronics",
+      "name": "Controller: Xbox One DualShock 4 - Gold variant with Adaptive Controller.",
+      "price": 59.99,
+      "description": "High-performance controller for Xbox One, featuring an adaptive design system with enhanced motion controls and a sleek gold finish."
+    },
+    {
+      "category": "Home Decor",
+      "name": "Table Lamp: LED Base with Diffused Shade - Black and White Gradient Design",
+      "price": 34.99,
+      "description": "Modern table lamp with a sleek black and white gradient design and diffused shade for soft lighting in your living space."
+    },
+    {
+      "category": "Books & Comics",
+      "name": "Activity Book: Jigsaw Puzzles - Nature Scapes Collection",
+      "price": 14.99,
+      "description": "Curated collection of high-quality jigsaw puzzles designed to bring peace and relaxation while enjoying beautiful nature scenes."
+    },
+    {
+      "category": "Tech Gadgets",
+      "name": "Power Bank: 5000mAh with USB-C Port and Qi wireless charging.",
+      "price": 39.99,
+      "description": "Fast-charging portable battery pack with USB-C port, Qi wireless charging support, and multiple USB ports."
+    }
+  ]
